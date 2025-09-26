@@ -46,7 +46,7 @@ The project focuses on:
 ---
 
 ## 🎥 Project Video
-👉 [https://drive.google.com/file/d/1iCnrZbnaZ7OHQIwIAL9UBqrESXk-hWy8/view?usp=sharing]
+👉 [https://drive.google.com/file/d/1nWdEbxwrRnpf077rIbl0_PJnM5cYj8V2/view?usp=sharing]
 
 ## PPT
 👉 [https://docs.google.com/presentation/d/1ua7McuZJlbUBVmYtz9Iom1JkWaYpBXQK/edit?usp=sharing&ouid=115857474966375978441&rtpof=true&sd=true]
